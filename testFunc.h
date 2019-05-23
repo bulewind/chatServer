@@ -1,4 +1,5 @@
-#include "testFunc.h"
+#include <iostream>
+#include <stdio.h>
 
 int printHello();
 
